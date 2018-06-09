@@ -1,8 +1,41 @@
 ---
-layout: archive
+layout: single
+classes: wide
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>-->
+
+<h2>About</h2>
+
+<p>I am a Ph.D. student in Computer Science at the University of Illinois at Urbana-Champaign. I am advised by <a href="http://www.cs.illinois.edu/~juliahmr/">Julia Hockenmaier</a>. My interests are in natural language processing and machine learning. My PhD research has focused on how to tackle semantic tasks like textual entailment using <a href="http://hockenmaier.cs.illinois.edu/DenotationGraph/">image caption denotations</a>.</p>
+
+<p>I was a research intern at Grammarly with <a href="https://www.cs.rochester.edu/~tetreaul/academic.html">Joel Tetreault</a> in 2017, and a intern in the A9 Product Search group in 2016. I graduated from the University of Pittsburgh in 2012 with a B.S. in Computer Science and a B.A. in Japanese.</p>
+
+<h2>Publications</h2>
+
+<p><a href="https://arxiv.org/abs/1805.04993"><b>Discourse Coherence in the Wild: A Dataset, Evaluation, and Methods</b></a><br>
+Alice Lai and Joel Tetreault<br>
+<i>SIGDIAL 2018</i><br>
+<a href="https://github.com/aylai/GCDC-corpus">[Data]</a>
+
+<p><a href="http://aclweb.org/anthology/I17-1011"><b>Natural Language Inference from Multiple Premises</b></a><br>
+Alice Lai, Yonatan Bisk, and Julia Hockenmaier<br>
+<i>IJCNLP 2017</i><br>
+<a href="https://github.com/aylai/MultiPremiseEntailment">[Code]</a> <a href="https://github.com/aylai/MultiPremiseEntailment/tree/master/data/MPE">[Data]</a></p>
+
+<p> <a href="https://www.aclweb.org/anthology/E/E17/E17-1068.pdf"><b>Learning to Predict Denotational Probabilities For Modeling Entailment</b></a><br>
+Alice Lai and Julia Hockenmaier<br>
+<i>EACL 2017</i><br>
+<a href="https://github.com/aylai/EntailmentProbabilityEmbedding">[Code]</a> <a href="https://github.com/aylai/EntailmentProbabilityEmbedding/tree/master/data/den_prob">[Data]</a></p>
+
+<p><a href="http://www.aclweb.org/anthology/S/S14/S14-2055.pdf"><b>Illinois-LH: A Denotational and Distributional Approach to Semantics</b></a><br>
+Alice Lai and Julia Hockenmaier<br>
+<i>SemEval 2014</i></p>
+
+<p><a href="http://aclweb.org/anthology/Q14-1006"><b>From image description to visual denotations: New similarity metrics for semantic inference over event descriptions</b></a><br>
+Peter Young, Alice Lai, Micah Hodosh, and Julia Hockenmaier<br>
+<i>TACL, Vol. 2</i><br>
+<a href="http://hockenmaier.cs.illinois.edu/DenotationGraph/data/">[Data]</a>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}
