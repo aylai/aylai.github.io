@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Lai"
-  avatar           : "/assets/images/bio_photo.jpg"
+  avatar           : "/assets/images/bio_photo.JPG"
   bio              : ""
   location         : "Urbana, IL"
   email            : "aylai2@illinois.edu"
