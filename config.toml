@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Alice Lai"
+theme = "PaperMod"
+
+[params]
+  color = "light"
+  name = "Alice Lai"
+  bio = "This is my bio"
+  # Optional social links
+  github = "yourgithubusername"
+
+  disableSpecial1stPost = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
