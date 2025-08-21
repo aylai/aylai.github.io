@@ -36,7 +36,30 @@ sight of another green leaf. Yuck!&lt;/p&gt;</description>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m learning Hugo, one step at a time.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;currently&#34;&gt;currently&lt;/h3&gt;
+&lt;p&gt;I am a researcher in Machine Learning and Natural Language Processing working on AI/ML for social good and public policy issues with &lt;a href=&#34;https://www.rayidghani.com/&#34;&gt;Rayid Ghani&lt;/a&gt; at CMU.&lt;/p&gt;
+&lt;h3 id=&#34;previously&#34;&gt;previously&lt;/h3&gt;
+&lt;p&gt;I worked on digital assistants for the medical domain as a Machine Learning Engineer at 3M, and on writing assistance tools for Word with &lt;a href=&#34;https://www.microsoft.com/en-us/research/people/chrisq/&#34;&gt;Chris Quirk&lt;/a&gt; as an Applied Scientist at Microsoft. My work in industry has included collecting data to fine-tune large transformer models, applying knowledge distillation to produce fast and accurate models for production, and developing compact task-specific representations to improve model efficiency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h3 id=&#34;recent-publications&#34;&gt;Recent publications&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;https://ojs.aaai.org/index.php/AAAI/article/view/30246&#34;&gt;Preventing Eviction-Caused Homelessness through ML-Informed Distribution of Rental Assistance&lt;/a&gt;&lt;/b&gt;&lt;br&gt;
+Catalina Vajiac, Arun Frey, Joachim Baumann, Abigail Smith, Kasun Amarasinghe, Alice Lai, Kit T. Rodolfa, Rayid Ghani&lt;br&gt;
+&lt;i&gt;AAAI 2024&lt;/i&gt;&lt;/p&gt;
+&lt;h3 id=&#34;patents&#34;&gt;Patents&lt;/h3&gt;
+&lt;h3 id=&#34;phd-thesis&#34;&gt;PhD thesis&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;https://www.ideals.illinois.edu/items/109478&#34;&gt;Textual Entailment from Image Caption Denotations&lt;/a&gt;&lt;/b&gt;&lt;br&gt;
+Advised by Julia Hockenmaier&lt;br&gt;
+Committee: Katrin Erk, Dan Roth, ChengXiang Zhai&lt;/p&gt;
+&lt;h3 id=&#34;phd-publications&#34;&gt;PhD publications&lt;/h3&gt;
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;https://aclanthology.org/W18-5023/&#34;&gt;Discourse Coherence in the Wild: A Dataset, Evaluation, and Methods&lt;/a&gt;&lt;/b&gt;&lt;br&gt;
+Alice Lai and Joel Tetreault&lt;br&gt;
+&lt;i&gt;SIGDIAL 2018&lt;/i&gt;&lt;br&gt;
+[&lt;a href=&#34;https://github.com/aylai/DiscourseCoherence&#34;&gt;Code&lt;/a&gt;] [&lt;a href=&#34;https://github.com/aylai/GCDC-corpus&#34;&gt;Data&lt;/a&gt;] [&lt;a href=&#34;https://aclanthology.org/attachments/W18-5023.Attachment.pdf&#34;&gt;Supplementary Material&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
