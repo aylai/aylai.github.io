@@ -7,10 +7,6 @@ title: Publications
 Catalina Vajiac, Arun Frey, Joachim Baumann, Abigail Smith, Kasun Amarasinghe, Alice Lai, Kit T. Rodolfa, Rayid Ghani<br>
 <i>AAAI 2024</i>
 
-### Patents
-
-
-
 ### PhD thesis
 
 <b><a href="https://www.ideals.illinois.edu/items/109478">Textual Entailment from Image Caption Denotations</a></b><br>
